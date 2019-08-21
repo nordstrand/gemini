@@ -33,7 +33,7 @@
     "sizzle": "^2.2.0",
     "source-map": "^0.2.0",
     "temp": "~0.8.0",
-    "uglifyify": "^3.0.1",
+    "uglifyify": "^5.0.2",
     "wd": "^0.3.4",
     "worker-farm": "^1.3.1"
   },
