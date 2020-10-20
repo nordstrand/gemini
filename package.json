@@ -8,7 +8,7 @@
   "main": "lib/public-api.js",
   "dependencies": {
     "aliasify": "^1.7.2",
-    "browserify": "^9.0.4",
+    "browserify": "^12.0.0",
     "chalk": "^0.5.1",
     "commander": "^2.8.1",
     "css": "^2.1.0",
@@ -22,9 +22,9 @@
     "js-yaml": "^3.2.5",
     "lodash": "^3.6.0",
     "looks-same": "^2.2.2",
-    "minimatch": "^2.0.1",
+    "minimatch": "^3.0.2",
     "png-img": "~1.1.0",
-    "polyfill-service": "~1.4.0",
+    "polyfill-service": "~3.10.0",
     "q": "^1.1.2",
     "q-debug-mode": "0.0.1",
     "q-io": "~1.11.0",
@@ -34,7 +34,7 @@
     "source-map": "^0.2.0",
     "temp": "~0.8.0",
     "uglifyify": "^3.0.1",
-    "wd": "^0.3.4",
+    "wd": "^1.0.0",
     "worker-farm": "^1.3.1"
   },
   "bundleDependencies": [
