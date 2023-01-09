@@ -12,7 +12,7 @@
     "chalk": "^0.5.1",
     "commander": "^2.8.1",
     "css": "^2.1.0",
-    "debug": "^2.2.0",
+    "debug": "^3.1.0",
     "es6-weak-map": "^1.0.2",
     "gemini-configparser": "^0.1.1",
     "gemini-coverage": "~0.3.0",
